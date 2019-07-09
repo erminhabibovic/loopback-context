@@ -31,7 +31,7 @@
     "dirty-chai": "^2.0.1",
     "eslint": "^5.0.1",
     "eslint-config-loopback": "^10.0.0",
-    "loopback": "^3.0.0",
+    "loopback": "2.38.3",
     "mocha": "^5.2.0",
     "supertest": "^3.1.0",
     "when-3.7.7": "file:./test/stub-modules/when-3.7.7"
